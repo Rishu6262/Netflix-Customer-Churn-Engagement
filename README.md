@@ -16,7 +16,7 @@ readme = r'''<div align="center">
   <img src="https://img.shields.io/badge/Deployment-Render-5A3FFF" alt="Render">
 </p>
 
-**[🚀 Live Backend](https://netflix-customer-churn-engagement-y069.onrender.com) · [📘 API Docs](https://netflix-customer-churn-engagement-y069.onrender.com/docs) · [👨‍💻 GitHub Profile](https://github.com/Rishu6262)**
+**[🚀 Live Backend](https://netflix-customer-churn-engagement-y069.onrender.com) · [👨‍💻 GitHub Profile](https://github.com/Rishu6262)**
 
 > **Project type:** End-to-end Machine Learning + REST API + web frontend  
 > **Problem type:** Binary classification · **Target:** `churned`

@@ -1,6 +1,4 @@
-from pathlib import Path
 
-readme = r'''<div align="center">
 
 # 🎬 Netflix Customer Churn Prediction & Engagement Intelligence
 
